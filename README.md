@@ -1,7 +1,6 @@
-# perl-error - master branch
+# Error.pm
 
-This repository contains the frozen state of the repository.
-Its history is cleared. It is used only for static code
-analysis with Codacy.
-
-Commit Time: 1734569787
+This is the version control repository of the
+[“Error” CPAN Distribution](https://metacpan.org/release/Error). Note that
+it is no longer recommended for new code, and code that uses it should be
+converted away from it.
